@@ -1,2 +1,2 @@
 rm -rf backend/venv
-rm -rf node_modules package-lock.json
+rm -rf backend/node_modules backend/package-lock.json
