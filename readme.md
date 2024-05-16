@@ -23,7 +23,7 @@ npm start
 # UNINSTALL
 
 cd ../ \
-./uninstall.bash \
+./uninstall.bash
 
 ## OR 
 
