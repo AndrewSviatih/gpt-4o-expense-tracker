@@ -1,7 +1,6 @@
 # INSTALL:
 
 ### !!! May need to install python + venv + npm + flask_cors
-You need to add sha in 
 
 cd backend
 python3 -m venv venv
