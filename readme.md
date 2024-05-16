@@ -11,21 +11,21 @@ source venv/bin/activate
 venv\Scripts\activate
 
 ## NEXT:
-pip install -r requirements.txt
+pip install -r requirements.txt \
 python3 app.py
 
-!!! Open new terminal
+!!! Open new terminal 
 
-cd ../frontend
-npm install --legacy-peer-deps
+cd ../frontend \
+npm install --legacy-peer-deps \
 npm start
 
 # UNINSTALL
 
-cd ../
-./uninstall.bash
+cd ../ \
+./uninstall.bash \
 
 ## OR 
 
-rm -rf backend/venv
+rm -rf backend/venv \
 rm -rf frontend/node_modules frontend/package-lock.json
