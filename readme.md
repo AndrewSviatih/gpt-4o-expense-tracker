@@ -1,4 +1,4 @@
-Yes, i make this in 1,5 hour
+Yes, i make this in 1 hour
 # INSTALL:
 
 ### !!! May need to install python + venv + npm + flask_cors
